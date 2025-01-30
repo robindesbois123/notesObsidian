@@ -1,0 +1,18 @@
+### Truc à voir : 
+- Mercredi:
+	- [[ProgrammeElemenraire]]
+	- [[Precompilation]]
+	- [[Variable]]
+	- [[Sequencement]]
+	- [[RepartitionData]]
+	- [[ConversionType]]
+	- [[Entree-Sortie]]
+- jeudi 
+	- [[Fonctions]]
+	- [[Pointeurs]]
+	- [[Tableaux]]
+- Vendredi
+	- [[String]]
+	- [[EntreeSousFichier]]
+- Samedi
+	- [[Classes]]

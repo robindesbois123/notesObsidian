@@ -1,0 +1,10 @@
+- Énoncé de vison (intro)
+- modele dudomaine 
+	- Diagramem edes classse
+	- Diagrame des classes 
+- modeles des cas d'utilisation
+	- Diagramme des cas d'utilisation 
+	- textes des cas d'utilisation 
+	- Diagramme des séquences DSS
+- Esquisse interface utilisateurs 
+- Diagramme de Gantt

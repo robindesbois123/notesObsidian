@@ -1,0 +1,247 @@
+{
+  "main": {
+    "id": "1e7f25196606db3b",
+    "type": "split",
+    "children": [
+      {
+        "id": "8b3e3c0c9c1455fe",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "6b97bade385585d2",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/intra/Variable.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Variable"
+            }
+          },
+          {
+            "id": "4628b9a785f40814",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "c++/Final/0_EtudeFinal.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_EtudeFinal"
+            }
+          },
+          {
+            "id": "c6ee8577a795ba2b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "SQL_reminder.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "SQL_reminder"
+            }
+          },
+          {
+            "id": "65c2885a0817d630",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "ift-2008/NoteCours/1-NoteCours01.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "1-NoteCours01"
+            }
+          }
+        ],
+        "currentTab": 3
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a9865fbf534cbf5f",
+    "type": "split",
+    "children": [
+      {
+        "id": "2f30a9faf3324d79",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "ca08a8fcd9812750",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "4be3c251de88d284",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "230e947d7d2de4b8",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 200
+  },
+  "right": {
+    "id": "f3be9fab59a72763",
+    "type": "split",
+    "children": [
+      {
+        "id": "da7b46fe209a91cf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "642360a1d18af30c",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "TP2/0_TP2.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for 0_TP2"
+            }
+          },
+          {
+            "id": "6e7139909ba8ddf1",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "TP2/0_TP2.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from 0_TP2"
+            }
+          },
+          {
+            "id": "b48a7850e5a69217",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "c12efa534ec8dd44",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "TP2/0_TP2.md"
+              },
+              "icon": "lucide-list",
+              "title": "Outline of 0_TP2"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "65c2885a0817d630",
+  "lastOpenFiles": [
+    "ift-2008/NoteCours/FormuleSommation.md",
+    "ift-2008/NoteCours/1-NoteCours01.md",
+    "ift-2008/NoteCours/operationBarometre.md",
+    "ift-2008/NoteCours/0-ift-2008_NoteCours.md",
+    "ift-2007/Projet/Remise1/Livrable.md",
+    "ift-2008/NoteCours",
+    "ift-2008",
+    "ift-2007/Projet/General/NotesGeneraleProjet.md",
+    "ift-2007/Projet/Remise1",
+    "ift-2007/Projet/General",
+    "ift-2007/Cours/ift-2007_cours01.md",
+    "ift-2007/NoteMatiere/Untitled.md",
+    "ift-2007/NoteMatiere",
+    "ift-2008/NoteCours/SQL_reminder.md",
+    "ift-2007/Projet",
+    "ift-2007/Cours",
+    "ift-2007",
+    "c++/Final/0_EtudeFinal.md",
+    "c++/Final/CppTheorieContrat.md",
+    "c++/Final/CppHeritage.md",
+    "c++/Final/CppGestionMemoire.md",
+    "c++/Final/CppException.md",
+    "c++/Final/CppPolymorphisme.md",
+    "c++/Final/CppHierarchie.md",
+    "c++/Final/CppTestUnitaire.md",
+    "c++/intra/Variable.md",
+    "c++/Final",
+    "c++/intra/Classes.md",
+    "c++/intra",
+    "c++/intra/String.md",
+    "TP2/0_TP2.md",
+    "c++/intra/ÉtudeIntraC++.md",
+    "c++/intra/EntreeSousFichier.md",
+    "c++/intra/Tableaux.md",
+    "c++/intra/Precompilation.md",
+    "c++/intra/Pointeurs.md"
+  ]
+}

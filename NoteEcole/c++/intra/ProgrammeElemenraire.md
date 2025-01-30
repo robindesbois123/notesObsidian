@@ -1,0 +1,1 @@
+Algo (humain)-> Programme(language) -> Ordinareur(compilation)
