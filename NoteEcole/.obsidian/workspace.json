@@ -55,12 +55,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "ift-2008/NoteCours/1-NoteCours01.md",
+                "file": "ift-2007/Projet/Remise1/Livrable.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "1-NoteCours01"
+              "title": "Livrable"
             }
           }
         ],
@@ -207,8 +207,9 @@
   },
   "active": "65c2885a0817d630",
   "lastOpenFiles": [
-    "ift-2008/NoteCours/FormuleSommation.md",
+    "ift-2008/NoteCours/tempsExecution.md",
     "ift-2008/NoteCours/1-NoteCours01.md",
+    "ift-2008/NoteCours/FormuleSommation.md",
     "ift-2008/NoteCours/operationBarometre.md",
     "ift-2008/NoteCours/0-ift-2008_NoteCours.md",
     "ift-2007/Projet/Remise1/Livrable.md",
@@ -241,7 +242,6 @@
     "c++/intra/ÉtudeIntraC++.md",
     "c++/intra/EntreeSousFichier.md",
     "c++/intra/Tableaux.md",
-    "c++/intra/Precompilation.md",
-    "c++/intra/Pointeurs.md"
+    "c++/intra/Precompilation.md"
   ]
 }
