@@ -39,12 +39,17 @@
             "id": "a5a6f25986c52dc2",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "canvas",
               "state": {
-                "file": "Z_fichierAutre/Pasted image 20250213003921.png"
+                "file": "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
+                "viewState": {
+                  "x": -342.9654545425146,
+                  "y": 49.597358644205784,
+                  "zoom": -0.5030949630300492
+                }
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250213003921"
+              "icon": "lucide-layout-dashboard",
+              "title": "Ebauche_DiagrammeClasse"
             }
           }
         ],
@@ -105,7 +110,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 251.5
+    "width": 251.5,
+    "collapsed": true
   },
   "right": {
     "id": "f3be9fab59a72763",
@@ -190,44 +196,45 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "ca08a8fcd9812750",
+  "active": "a5a6f25986c52dc2",
   "lastOpenFiles": [
+    "NoteCours03.md",
+    "03_Piles.md",
+    "03_Files.md",
+    "03_Listes.md",
+    "Pasted image 20250215220428.png",
+    "Pasted image 20250215220408.png",
+    "Pasted image 20250215220355.png",
+    "03_Iterateur.md",
+    "Pasted image 20250215214102.png",
+    "Pasted image 20250215212521.png",
+    "ExercicesSemaine03.md",
+    "03_Vecteurs.md",
+    "sessionH2025/ift-2008/NoteCours/03_TDA.md",
+    "sessionH2025/ift-2008/NoteCours/0-ift-2008_NoteCours.md",
+    "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
+    "sessionH2025/ift-2007/Projet/Remise2/LivrablesRemise2_Plan.md",
+    "Z_fichierAutre/Pasted image 20250213003921.png",
     "sessionH2025/ift-2008/NoteCours/Lambda.md",
     "Z_fichierAutre/Pasted image 20250213230714.png",
     "sessionH2025/ift-2008/NoteCours/NoteCours02.md",
     "sessionH2025/ift-2008/NoteCours/Foncteur.md",
     "sessionH2025/ift-2008/NoteCours/TransfertAppartenance.md",
     "sessionH2025/ift-2008/NoteCours/GestionMemoire.md",
-    "sessionH2025/ift-2008/NoteCours/0-ift-2008_NoteCours.md",
     "Z_fichierAutre/Pasted image 20250213221215.png",
     "sessionH2025/ift-2008/NoteCours/ObjetEtClasse.md",
     "sessionH2025/ift-2008/NoteCours/NoteCours01.md",
     "Z_fichierAutre/Pasted image 20250213193115.png",
     "sessionH2025/ift-2008/NoteCours/ExercicesSemaine02.md",
     "Z_fichierAutre/Pasted image 20250213004006.png",
-    "Z_fichierAutre/Pasted image 20250213003921.png",
     "sessionH2025/ift-2008/NoteCours/QualitéCode.md",
     "sessionH2025/ift-2007/Cours/ift-2007_cours01.md",
-    "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
     "sessionH2025/ift-2007/NoteMatiere/JPannel_Swing.md",
     "sessionH2025/ift-2007/NoteMatiere/Java.md",
     "sessionH2025/ift-2007/NoteMatiere/0_NoteCours.md",
     "sessionH2025/ift-2007/NoteMatiere/DiagrammeSequenceSysteme.md",
-    "Z_fichierAutre/Pasted image 20250212010458.png",
     "sessionH2025/ift-2007/NoteMatiere/DiagrammeCommunication.md",
     "sessionH2025/ift-2007/NoteMatiere/ModeleCasUtilisation.md",
-    "Z_fichierAutre/Pasted image 20250212003908.png",
-    "sessionH2025/ift-2007/NoteMatiere/ModeleDomaine.md",
-    "Z_fichierAutre/Pasted image 20250211000305.png",
-    "Z_fichierAutre/Pasted image 20250211225043.png",
-    "Z_fichierAutre/Pasted image 20250211225025.png",
-    "sessionH2025/ift-2007/NoteMatiere/PhaseConceptualisation.md",
-    "sessionH2025/ift-2007/NoteMatiere/DeveloppementLogiciel.md",
-    "sessionH2025/ift-2007/Projet/Remise2/LivrablesRemise2_Plan.md",
-    "sessionH2025/ift-2008/NoteCours/ExerciceSemaine01.md",
-    "ExercicesSemaine03.md",
-    "sessionH2025/ift-2008/NoteCours/NotationO().md",
-    "sessionH2025/ift-2008/NoteCours/FormuleSommation.md",
     "SessionA2024",
     "sessionH2025",
     "Z_fichierAutre",
