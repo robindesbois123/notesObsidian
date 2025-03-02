@@ -8,52 +8,77 @@
         "type": "tabs",
         "children": [
           {
-            "id": "932bea200953c5c9",
+            "id": "0a6e298032e1dcae",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessionH2025/ift-2007/NoteMatiere/ModeleDomaine.md",
+                "file": "sessionH2025/ift-2007/Etude/0_EtudeIntra.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "ModeleDomaine"
+              "title": "0_EtudeIntra"
             }
           },
           {
-            "id": "4c9a447ff418c4fa",
+            "id": "e5b3d82b6d984749",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessionH2025/ift-2007/Projet/Remise2/Livrable2_ToLearn.md",
+                "file": "sessionH2025/ift-2007/NoteMatiere/ModeleCasUtilisation.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Livrable2_ToLearn"
+              "title": "ModeleCasUtilisation"
             }
           },
           {
-            "id": "a5a6f25986c52dc2",
+            "id": "3e7ce090c4f26ad1",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "markdown",
               "state": {
-                "file": "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
-                "viewState": {
-                  "x": -342.9654545425146,
-                  "y": 49.597358644205784,
-                  "zoom": -0.5030949630300492
-                }
+                "file": "sessionH2025/ift-2007/NoteMatiere/DeveloppementLogiciel.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "Ebauche_DiagrammeClasse"
+              "icon": "lucide-file",
+              "title": "DeveloppementLogiciel"
+            }
+          },
+          {
+            "id": "3713a48e9db4dd77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessionH2025/ift-2007/NoteMatiere/GrandsPrincipe.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "GrandsPrincipe"
+            }
+          },
+          {
+            "id": "b032559b2ed292a7",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "sessionH2025/ift-2008/Etude/0_EtudeIntra_ift-2008.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "0_EtudeIntra_ift-2008"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -127,17 +152,17 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "TP2/0_TP2.md",
-                "collapseAll": false,
+                "file": "sessionH2025/ift-2007/NoteMatiere/GrandsPrincipe.md",
+                "collapseAll": true,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
                 "showSearch": false,
                 "searchQuery": "",
                 "backlinkCollapsed": false,
-                "unlinkedCollapsed": true
+                "unlinkedCollapsed": false
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 0_TP2"
+              "title": "Backlinks for GrandsPrincipe"
             }
           },
           {
@@ -146,12 +171,22 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "TP2/0_TP2.md",
+                "file": "03_Vecteurs.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 0_TP2"
+              "title": "Outgoing links from 03_Vecteurs"
+            }
+          },
+          {
+            "id": "e5fc0482e2b34539",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
             }
           },
           {
@@ -173,17 +208,20 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "TP2/0_TP2.md"
+                "file": "03_Vecteurs.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of 0_TP2"
+              "title": "Outline of 03_Vecteurs"
             }
           }
         ]
       }
     ],
     "direction": "horizontal",
-    "width": 300,
+    "width": 302.5,
     "collapsed": true
   },
   "left-ribbon": {
@@ -193,57 +231,59 @@
       "canvas:Create new canvas": false,
       "daily-notes:Open today's daily note": false,
       "templates:Insert template": false,
-      "command-palette:Open command palette": false
+      "command-palette:Open command palette": false,
+      "templater-obsidian:Templater": false,
+      "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "a5a6f25986c52dc2",
+  "active": "3713a48e9db4dd77",
   "lastOpenFiles": [
-    "NoteCours03.md",
-    "03_Piles.md",
-    "03_Files.md",
-    "03_Listes.md",
-    "Pasted image 20250215220428.png",
-    "Pasted image 20250215220408.png",
-    "Pasted image 20250215220355.png",
-    "03_Iterateur.md",
-    "Pasted image 20250215214102.png",
-    "Pasted image 20250215212521.png",
-    "ExercicesSemaine03.md",
-    "03_Vecteurs.md",
-    "sessionH2025/ift-2008/NoteCours/03_TDA.md",
-    "sessionH2025/ift-2008/NoteCours/0-ift-2008_NoteCours.md",
-    "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
-    "sessionH2025/ift-2007/Projet/Remise2/LivrablesRemise2_Plan.md",
-    "Z_fichierAutre/Pasted image 20250213003921.png",
-    "sessionH2025/ift-2008/NoteCours/Lambda.md",
-    "Z_fichierAutre/Pasted image 20250213230714.png",
-    "sessionH2025/ift-2008/NoteCours/NoteCours02.md",
-    "sessionH2025/ift-2008/NoteCours/Foncteur.md",
-    "sessionH2025/ift-2008/NoteCours/TransfertAppartenance.md",
-    "sessionH2025/ift-2008/NoteCours/GestionMemoire.md",
-    "Z_fichierAutre/Pasted image 20250213221215.png",
-    "sessionH2025/ift-2008/NoteCours/ObjetEtClasse.md",
-    "sessionH2025/ift-2008/NoteCours/NoteCours01.md",
-    "Z_fichierAutre/Pasted image 20250213193115.png",
-    "sessionH2025/ift-2008/NoteCours/ExercicesSemaine02.md",
-    "Z_fichierAutre/Pasted image 20250213004006.png",
-    "sessionH2025/ift-2008/NoteCours/QualitéCode.md",
-    "sessionH2025/ift-2007/Cours/ift-2007_cours01.md",
-    "sessionH2025/ift-2007/NoteMatiere/JPannel_Swing.md",
-    "sessionH2025/ift-2007/NoteMatiere/Java.md",
-    "sessionH2025/ift-2007/NoteMatiere/0_NoteCours.md",
-    "sessionH2025/ift-2007/NoteMatiere/DiagrammeSequenceSysteme.md",
-    "sessionH2025/ift-2007/NoteMatiere/DiagrammeCommunication.md",
+    "sessionH2025/ift-2007/NoteMatiere/DeveloppementLogiciel.md",
+    "sessionH2025/ift-2008/Etude/0_EtudeIntra_ift-2008.md",
+    "sessionH2025/ift-2007/NoteMatiere/GrandsPrincipe.md",
     "sessionH2025/ift-2007/NoteMatiere/ModeleCasUtilisation.md",
+    "sessionH2025/ift-2007/Etude/0_EtudeIntra.md",
+    "sessionH2025/ift-2007/NoteMatiere/PhaseConceptualisation.md",
+    "sessionH2025/ift-2008/NoteCours/Cours05.md",
+    "sessionH2025/ift-2008/NoteCours/03_Files.md",
+    "sessionH2025/ift-2008/NoteCours/graphNomenclature.md",
+    "sessionH2025/ift-2008/NoteCours/NoteCours05.md",
+    "sessionH2025/ift-2007/NoteMatiere/DiagrammeInteraction.md",
+    "sessionH2025/ift-2007/NoteMatiere/ModeleDomaine.md",
+    "sessionH2025/ift-2007/NoteMatiere/GrandsPrincipes2.md",
+    "sessionH2025/ift-2007/Cours/ift-2007_cours01.md",
+    "sessionH2025/ift-2008/NoteCours/elementsFeuilleNote.md",
+    "sessionH2025/ift-2008/NoteCours/Graph.md",
+    "sessionH2025/ift-2008/NoteCours/NoteCours04.md",
+    "sessionH2025/ift-2008/NoteCours/graphProfondeur.md",
+    "sessionH2025/ift-2008/NoteCours/graphLongueur.md",
+    "sessionH2025/ift-2008/NoteCours/graphImplementation.md",
+    "sessionH2025/ift-2007/NoteMatiere/DiagrammeDeClasseConception.md",
+    "sessionH2025/ift-2008/NoteCours/03_Listes.md",
+    "sessionH2025/ift-2008/NoteCours/03_Iterateur.md",
+    "sessionH2025/ift-2008/NoteCours/NoteCours03.md",
+    "sessionH2025/ift-2008/NoteCours/Bellman-Ford.md",
+    "sessionH2025/ift-2008/NoteCours/Dijkstra.md",
+    "Z_fichierAutre/Pasted image 20250225210936.png",
+    "Z_fichierAutre/Pasted image 20250226233544.png",
+    "Z_fichierAutre/Pasted image 20250226233450.png",
+    "Z_fichierAutre/Pasted image 20250226233129.png",
+    "Z_fichierAutre/Pasted image 20250226232848.png",
+    "Z_fichierAutre/Pasted image 20250226224108.png",
+    "Z_fichierAutre/Pasted image 20250226213032.png",
+    "Z_fichierAutre/Pasted image 20250226210530.png",
+    "Z_fichierAutre/Pasted image 20250225233807.png",
+    "Z_fichierAutre/Pasted image 20250225233600.png",
+    "sessionH2025/ift-2008/Etude",
+    "sessionH2025/ift-2007/Etude",
+    "Excalidraw",
+    "sessionH2025/ift-2007/Projet/Remise2/Ebauche_DiagrammeClasse.canvas",
     "SessionA2024",
     "sessionH2025",
     "Z_fichierAutre",
     "sessionH2025/ift-2007/Projet/Remise2",
     "sessionH2025/ift-2008/TP/TP1",
     "sessionH2025/ift-2008/TP",
-    "sessionH2025/ift-2008/NoteCours",
-    "sessionH2025/ift-2008",
-    "sessionH2025/ift-2007/Projet/Remise1",
-    "sessionH2025/ift-2007/Projet/General"
+    "sessionH2025/ift-2008/NoteCours"
   ]
 }

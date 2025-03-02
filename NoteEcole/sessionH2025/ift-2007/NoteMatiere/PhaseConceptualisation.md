@@ -5,7 +5,7 @@
 - Établie une definition du projet, lkes objectifs
 - Établir les faisabilité
 - Decider si on realise le projet
-
+[[]]
 dans le fond: 
 - Identifier le besoin
 - Rediger un document qui decrit la vision

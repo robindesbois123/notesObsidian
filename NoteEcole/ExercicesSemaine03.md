@@ -1,7 +1,0 @@
-- liste
-- pile
-- pointeur avec liste
-- vecteur
-- pile appliquée
-- classe et operator
-- tri de base 

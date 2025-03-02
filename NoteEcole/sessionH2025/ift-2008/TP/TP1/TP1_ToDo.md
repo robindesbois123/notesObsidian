@@ -29,17 +29,17 @@
 
 ### 📌 **Dans `Livre.cpp`** :
 
-1. **Constructeur** `Livre::Livre(int p_id, const std::string& p_titre, const std::string& p_auteur, bool p_estDisponible)`
-2. **Constructeur de copie** `Livre::Livre(const Livre& p_autre)`
+1. **Constructeur** `Livre::Livre(int p_id, const std::string& p_titre, const std::string& p_auteur, bool p_estDisponible)` (Fait)
+2. **Constructeur de copie** `Livre::Livre(const Livre& p_autre)` (Fait)
 3. **Surcharge de l'opérateur d'affectation** `Livre& Livre::operator=(const Livre& p_autre)`
-4. **`reqId() const`** → Retourne l'ID du livre.
-5. **`reqTitre() const`** → Retourne le titre du livre.
-6. **`reqAuteur() const`** → Retourne l'auteur du livre.
-7. **`reqEstDisponible() const`** → Indique si le livre est disponible.
-8. **`reqDateRetour() const`** → Retourne la date de retour sous forme de chaîne.
-9. **`estRetourDepasse() const`** → Vérifie si la date de retour est dépassée.
+4. **`reqId() const`** → Retourne l'ID du livre. (FAIT)
+5. **`reqTitre() const`** → Retourne le titre du livre. (FAIT)
+6. **`reqAuteur() const`** → Retourne l'auteur du livre. (FAIT)
+7. **`reqEstDisponible() const`** → Indique si le livre est disponible. (FAIT)
+8. **`reqDateRetour() const`** → Retourne la date de retour sous forme de chaîne. (FAIT)
+9. **`estRetourDepasse() const`** → Vérifie si la date de retour est dépassée. (fait)
 10. **`emprunter(int p_matricule)`** → Permet à un emprunteur d’emprunter le livre.
-11. **`retourner()`** → Permet de retourner un livre.
+11. **`retourner()`** → Permet de retourner un livre. (FAIT)
 12. **`ajouterEmprunteurEnAttente(int p_matricule)`** → Ajoute un emprunteur à la file d'attente.
-13. **`retirerEmprunteurEnAttente()`** → Retire et retourne le prochain emprunteur en attente.
-14. **`estEnAttente() const`** → Vérifie si des emprunteurs sont en attente.
+13. **`retirerEmprunteurEnAttente()`** → Retire et retourne le prochain emprunteur en attente. (FAIT)
+14. **`estEnAttente() const`** → Vérifie si des emprunteurs sont en attente. (FAIT)

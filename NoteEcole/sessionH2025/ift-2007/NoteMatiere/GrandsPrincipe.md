@@ -1,0 +1,56 @@
+- ##### 1.Createur 
+	- Probleme : 
+		- qui devrait creer les instances de a 
+	- Solution : 
+		- la classe qui agrege les A 
+		- Enregistre A 
+		- Utilise A 
+		- Possede les donne pour l'initialiser
+- ##### 2.Expert en information 
+	- Probleme : 
+		- A quelle classe affecter une responsabilité (methode)
+	- Solution 
+		- a la classe qui possede les info pour s'en acquitter 
+- ##### 3.Controlleur 
+	- Probleme : 
+		- quel est le premier objet au dela de la couche présentation qui recoit les messages de l'utilisateur et controle l'acces aux objets de la couche du domaine 
+- ##### 4. Faible couplage 
+	- Probleme : 
+		- comment reduire l'impact des modif futures 
+	- Solution : 
+		- Affecter les responsabilité aux classes de maniere a éviter tout couplage inutile entre les classes 
+- ##### 5. Forte cohésion 
+	- Problème :
+		- Commewnt s'assurer que les objets restent compréhensible et faciles à gerer et qu,ils contribuent au faible couplage 
+	- Solution 
+		- affecter les responsabiqelité de maniere ace que la cohésion demeure élevée
+	- Attention 
+		- Va parfois a l'encontre d'autres principes 
+- ##### 6. Polymorphisme 
+	- Probleme 
+		- Comment gerer des alternatives dependantes du type de classe 
+		- comment gérer des composants logiciel (pluggin)
+	- Solution 
+		- Quand des fonctions ou des comportement connexe varient en fct du type de classe, utiliser des classes/methodes polymorphes
+- ##### 7. fabrication pure 
+	- Probleme: 
+		- Si les solutions recommandées par les grands principes semblent toujours mener à des designs avec trop de couplage et/ou manque de cohésion
+	- Solution 
+		- Affecter un ensemble de responsabilité fortement cohésif a une classe de commodité artificielle qui ne représente pas un concept domaine 
+		- c'est une pure fabrication de l'imagination afin de permettre un design pur
+	- exemple
+		- gestion du stockage 
+- ##### 8. Indirection 
+	- probleme 
+		- ou affecter les responsabilité pour éviter le couplage entre deux entité 
+		- comment decoupler les objets pouir maintenit le potentiel de reutilisation 
+	- solution 
+		- Affecter la responsabilité a un objet qui sert d'intermediaire entre d'Mautres composantes ou systeme externe pour eviter de les coupler directement 
+		- l'intermediaire crée une indirection entre les composants 
+- ##### 9.Protection contre les variations 
+	- Probleme : 
+		- Comment concevoir des objets,des sous-systeme ou des systeme de telle afacoinque les variations ou l'instabilité n'aient pas d'impact sur les autres 
+	- Solution : 
+		- prevoirs les elements qui risquent de changer 
+		- les encpasuler 
+- 
