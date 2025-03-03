@@ -69,16 +69,16 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "sessionH2025/ift-2008/Etude/0_EtudeIntra_ift-2008.md",
+                "file": "sessionH2025/ift-2008/TP/TP2/TP2_ToDo.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "0_EtudeIntra_ift-2008"
+              "title": "TP2_ToDo"
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 4
       }
     ],
     "direction": "vertical"
@@ -185,8 +185,8 @@
             "state": {
               "type": "calendar",
               "state": {},
-              "icon": "calendar-with-checkmark",
-              "title": "Calendar"
+              "icon": "lucide-file",
+              "title": "Plugin no longer active"
             }
           },
           {
@@ -236,11 +236,14 @@
       "obsidian-excalidraw-plugin:New drawing": false
     }
   },
-  "active": "3713a48e9db4dd77",
+  "active": "b032559b2ed292a7",
   "lastOpenFiles": [
-    "sessionH2025/ift-2007/NoteMatiere/DeveloppementLogiciel.md",
+    "sessionH2025/ift-2008/TP/TP1/TP1_ToDo.md",
+    "sessionH2025/ift-2008/TP/TP2/TP2_ToDo.md",
     "sessionH2025/ift-2008/Etude/0_EtudeIntra_ift-2008.md",
+    "sessionH2025/ift-2008/TP/TP2",
     "sessionH2025/ift-2007/NoteMatiere/GrandsPrincipe.md",
+    "sessionH2025/ift-2007/NoteMatiere/DeveloppementLogiciel.md",
     "sessionH2025/ift-2007/NoteMatiere/ModeleCasUtilisation.md",
     "sessionH2025/ift-2007/Etude/0_EtudeIntra.md",
     "sessionH2025/ift-2007/NoteMatiere/PhaseConceptualisation.md",
@@ -262,8 +265,6 @@
     "sessionH2025/ift-2008/NoteCours/03_Listes.md",
     "sessionH2025/ift-2008/NoteCours/03_Iterateur.md",
     "sessionH2025/ift-2008/NoteCours/NoteCours03.md",
-    "sessionH2025/ift-2008/NoteCours/Bellman-Ford.md",
-    "sessionH2025/ift-2008/NoteCours/Dijkstra.md",
     "Z_fichierAutre/Pasted image 20250225210936.png",
     "Z_fichierAutre/Pasted image 20250226233544.png",
     "Z_fichierAutre/Pasted image 20250226233450.png",
@@ -283,7 +284,6 @@
     "Z_fichierAutre",
     "sessionH2025/ift-2007/Projet/Remise2",
     "sessionH2025/ift-2008/TP/TP1",
-    "sessionH2025/ift-2008/TP",
-    "sessionH2025/ift-2008/NoteCours"
+    "sessionH2025/ift-2008/TP"
   ]
 }
