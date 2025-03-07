@@ -11,10 +11,10 @@
 
 ## Graphe
 
-- [ ] **Constructeur** Graphe 
-- [ ] **resize ** 
-- [ ] **nommer**
-- [ ] **AjouterArc** 
+- [x] **Constructeur** Graphe 
+- [x] **resize ** 
+- [x] **nommer**
+- [x] **AjouterArc** 
 - [ ] **enleverArc**
 - [ ] **ArcExiste** 
 - [ ] **ListerSommetAdjacent 
